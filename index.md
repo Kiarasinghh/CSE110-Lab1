@@ -21,8 +21,12 @@ Here is a link to a recipe I use often in my instapot to make tomato rice: [Toma
 [Image of Tomato Rice](/Tomato-Rice-bowl.jpg)
 
 As a programmer I will: 
-[x] Start projects late
-[ ] Manage my time well 
+- [x] Start projects late
+- [ ] Manage my time well 
+
+
+## Favourite hobby:
+I like to dance. I am part of a dance team at UCSD and it's really fun. 
 
 Somethings I like to do in my free time are:
 - Dance
@@ -34,11 +38,7 @@ In order of the ones I spend the most time on to least:
 2) Dance
 3) Read
 
-
 ## Favourite Coding Langugae: 
 Python! I like how similar to english it is.
-
-## Favourite hobby:
-I like to dance. I am part of a dance team at UCSD and it's really fun. 
 
 
