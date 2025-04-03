@@ -5,10 +5,10 @@ My name is __Kiara__ I grew up in Hong Kong and am currently a second year compu
 >Either you run the day or the day runs you
 
 Important Contents of this page:
-[Favourite coding language](#favourite-coding-language)
+[Favourite coding language](#favourite-coding-language).
 
 
-[Favourite hobby](#favourite-hobby)
+[Favourite hobby](#favourite-hobby).
 
 Here are some git commands I used today: 
 
