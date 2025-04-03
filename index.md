@@ -21,8 +21,8 @@ Here is a link to a recipe I use often in my instapot to make tomato rice: [Toma
 [Image of Tomato Rice](/Tomato-Rice-bowl.jpg)
 
 As a programmer I will: 
-- [x] Start projects late
-- [ ] Manage my time well 
+- [ ] Start projects late
+- [X] Manage my time well 
 
 
 ## Favourite hobby:
