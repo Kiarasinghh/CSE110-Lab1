@@ -4,6 +4,10 @@ My name is __Kiara__ I grew up in Hong Kong and am currently a second year compu
 
 >Either you run the day or the day runs you
 
+Important Contents of this page:
+[Favourite coding language](#favourite-coding-language)
+[Favourite hobby](#favourite-hobby)
+
 Here are some git commands I used today: 
 
 ```
@@ -14,9 +18,22 @@ git commit
 
 Here is a link to a recipe I use often in my instapot to make tomato rice: [Tomato Rice](https://www.indianhealthyrecipes.com/tomato-rice-recipe/).
 
-Contents of this page:
-[Favourite coding language](#favourite-coding-language)
-[Favourite hobby](#favourite-hobby)
+[Image of Tomato Rice](/Tomato-Rice-bowl.jpg)
+
+As a programmer I will: 
+[x] Start projects late
+[ ] Manage my time well 
+
+Somethings I like to do in my free time are:
+- Dance
+- Read
+- Hang out with friends
+
+In order of the ones I spend the most time on to least:
+1) Hang out with friends
+2) Dance
+3) Read
+
 
 ## Favourite Coding Langugae: 
 Python! I like how similar to english it is.
