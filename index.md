@@ -6,6 +6,8 @@ My name is __Kiara__ I grew up in Hong Kong and am currently a second year compu
 
 Important Contents of this page:
 [Favourite coding language](#favourite-coding-language)
+
+
 [Favourite hobby](#favourite-hobby)
 
 Here are some git commands I used today: 
@@ -25,7 +27,7 @@ As a programmer I will:
 - [X] Manage my time well 
 
 
-## Favourite hobby:
+## Favourite hobby :
 I like to dance. I am part of a dance team at UCSD and it's really fun. 
 
 Somethings I like to do in my free time are:
@@ -38,7 +40,7 @@ In order of the ones I spend the most time on to least:
 2) Dance
 3) Read
 
-## Favourite Coding Langugae: 
+## Favourite Coding Langugae : 
 Python! I like how similar to english it is.
 
 
