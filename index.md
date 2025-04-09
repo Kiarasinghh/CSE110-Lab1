@@ -36,9 +36,9 @@ Somethings I like to do in my free time are:
 - Hang out with friends
 
 In order of the ones I spend the most time on to least:
-1) Hang out with friends
-2) Dance
-3) Read
+1. Hang out with friends
+2. Dance
+3. Read
 
 ## Favourite Coding Langugae : 
 Python! I like how similar to english it is.
